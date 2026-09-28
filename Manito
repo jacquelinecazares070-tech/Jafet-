@@ -1,0 +1,8 @@
+frase = "Te amo\n"
+
+for i in range(100):
+    print(frase, end="") 
+   
+print("---------------------------")
+print("Te extraño mucho, algun dia volvere solo para verte :), mira se me ocurrio en un ratito y batalle pero ya le supe")
+print("Atte. Irisita")
